@@ -1,0 +1,13 @@
+# Packages
+node_modules/
+
+# build
+build/
+
+# IDE
+.idea/
+
+
+# ENV
+.hitc-upload
+.hitc-upload-token

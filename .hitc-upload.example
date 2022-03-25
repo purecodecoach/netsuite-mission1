@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    {
+      "name": "HITC Dev",
+      "companyId": "COMPANY_ID",
+      "cabinetPath": "/SuiteScripts/<YOUR PATH>"
+    }
+  ]
+}

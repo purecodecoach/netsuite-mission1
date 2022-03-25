@@ -1,0 +1,7 @@
+[
+  {
+    "companyId": "COMPANY_ID",
+    "tokenId": "HITC_TOKEN_ID",
+    "tokenSecret": "HITC_TOKEN_SECRET"
+  }
+]
